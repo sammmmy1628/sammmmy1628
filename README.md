@@ -2,5 +2,4 @@
 
 ### I make MC Mods, mainly textures / models 🌱
 
-### Owner of Zinc Studios
-### Co-creator of Land of Drunir 🌳 and Brutal Harvest 🍅
+### Owner of Zinc Studios 
